@@ -1,0 +1,24 @@
+# Compiled executable
+scheduler
+scheduler.exe
+
+# Object files
+*.o
+
+# VS Code settings
+.vscode/
+
+# MSYS2 / MinGW temporary files
+*.dll
+*.a
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Logs / temporary files
+*.log
+*.tmp
+
+# Backup files
+*~
